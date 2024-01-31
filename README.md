@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋 </h1>
 <h3 align="center">Engineer. Yes, you can call me Carlo.</h3>
 
-<img align="center" alt="super_mario_8bit_coding" src="https://gifdb.com/images/high/chemistry-lab-experiment-animated-art-izbis52v1v2byclx.webp">
+<img align="center" alt="lab_experiment practice" src="https://gifdb.com/images/high/chemistry-lab-experiment-animated-art-izbis52v1v2byclx.webp">
 
 - 🔭 I’m currently working as **Data Analyst.**
 
