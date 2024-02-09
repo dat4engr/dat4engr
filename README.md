@@ -3,7 +3,7 @@
 
 <img align="center" alt="mario_dev_mode" src="https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.webp">
 
-- 🔭 I’m currently working as **Data Analyst.**
+- 🔭 I’m working with **data pipelines, mobile apps, and anything that comes with my ideas.**
 
 - 🌱 I’m currently practicing **Python, R, and Swift.**
 
