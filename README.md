@@ -1,11 +1,11 @@
 <h1 align="center">Hello there! 👋 </h1>
-<h3 align="center">Engineer. Yes, you can call me Carlo.</h3>
+<h3 align="center">Engineer. You can call me Carlo.</h3>
 
 <img align="center" alt="mario_dev_mode" src="https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.webp">
 
-- 🔭 I’m working with **data pipelines, mobile apps, and anything that comes with my ideas.**
+- 🔭 I am working with **data pipelines, mobile apps,** and **anything that comes with my ideas.**
 
-- 🌱 I’m currently practicing **Python, R, and Swift.**
+- 🌱 I am practicing **Python, R,** and **Swift.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
